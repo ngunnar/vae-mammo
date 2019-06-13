@@ -4,5 +4,6 @@
 
 # ignore a file type
 *.pgm
+*.h5
 
 # add an exception (using !) to the preceding rule to track a specific file
